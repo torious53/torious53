@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 
 - 🥲 New change
+- 😛 New local change
 
 <!---
 torious53/torious53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
